@@ -27,7 +27,7 @@
             
     <spacer></spacer>
     <div class="waitlist">
-        <Button href="https://research.typeform.com/to/JuUCaMAx" text="Join the waitlist!"></Button>
+        <Button href="https://forms.gle/5bWsW4ryMKCAxCGf7" text="Join the waitlist!"></Button>
     </div>
 </page>
 
